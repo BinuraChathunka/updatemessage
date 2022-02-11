@@ -1,1 +1,2 @@
-{ ver1 :  '13'  ,  ver2 :  '0'  ,  ver3 : ' \n Added New Animation Privacy \n ' ,  dli :  'https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg'  }
+{ ver1 :  '7'  ,  ver2 :  '0'  ,  ver3 : ' \n Added New Animation Privacy
+view once disabled \n ' ,  dli :  'https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg'  }
