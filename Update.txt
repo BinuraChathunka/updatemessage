@@ -1,1 +1,1 @@
-{'ver1':'12', 'ver2':'25', 'ver3':'\n[>> Base ] v7 \n[>> 🍃🍃🍃 ] NEW VERSION OF NB WHATSAPP IS RELESED!!\n[>> Added ] New Update Sending Method\n[>> Fixed ] All crash are fixed \n[Fixed ]Added New Side view"\n' , 'dli':'https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg'}
+{'ver1':'7', 'ver2':'0', 'ver3':'\n[>> Base ] 2.22.2.73\n[>> From ] 🍃Sl Terror Team🍃\n[>> Developer ] Naughty Binu\n[>> about ] Member of Sl terror Premium Gang\n[ðŸ‘‰ Â¸Fixed ]All Crash And improve System Stability"\n' , 'dli':'https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg'}
