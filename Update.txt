@@ -1,2 +1,2 @@
-{ ver1 :  '14'  ,  ver2 :  '0'  ,  ver3 : ' \n Added New Animation Privacy
+{ ver1 :  '20'  ,  ver2 :  '0'  ,  ver3 : ' \n Added New Animation Privacy
 view once disabled \n ' ,  dli :  'https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg'  }
