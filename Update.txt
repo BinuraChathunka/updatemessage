@@ -1,1 +1,1 @@
-{'ver1':'12', 'ver2':'25', 'ver3':'\n[>> Base ] v7 \n[>> 🍃🍃🍃 ] NEW VERSION OF NB WHATSAPP IS RELESED!!\n[>> Added ] New Update Sending Method\n[>> Fixed ] All crash are fixed \n[Â¸Fixed ]Added New Side view"\n' , 'dli':'https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg'}
+{'ver1':'12', 'ver2':'25', 'ver3':'\n[>> Base ] v7 \n[>> 🍃🍃🍃 ] NEW VERSION OF NB WHATSAPP IS RELESED!!\n[>> Added ] New Update Sending Method\n[>> Fixed ] All crash are fixed \n[Fixed ]Added New Side view"\n' , 'dli':'https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg'}
