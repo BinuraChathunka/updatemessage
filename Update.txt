@@ -1,2 +1,3 @@
-{ ver1 :  '40'  ,  ver2 :  '0'  ,  ver3 : ' \n Added New Animation Privacy
-view once disabled \n ' ,  dli :  'https://youtube.com/huk/channel/UCxpbzNk5UW9GuFMLnYiZBLg'  }
+{ ver1 :  '40'  ,  ver2 :  '0'  ,  ver3 : ' \n Added New Animation Privacy 
+view once disabled
+com.gbwhatsapp \n ' ,  dli :  'https://youtube.com/channel/UCxpbzNk5UW9GuFMLnYiZBLg'  }
